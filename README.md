@@ -1,21 +1,17 @@
-# Project1-Comics-Reader
-=======
-# 09/23/2020 - Comic Book Reader.
+TITLE: ComicBase
 
-This APP - Project was a group collaboration providing the Comic Junkie and/or the like a platform where with their experience and interface is paramount. 
+SUMMARY: This APP - Project was a group collaboration providing the comic book enthusiast an aesthetically pleasing platform to read and store comic books.
 
-With the use HTML, CSS, Javascript, and JQuery we managed to create a streamlined - clean platform, with color, functionality, and easy accessibility to the user. With the help of APIS we where able to connect users to various and numerous Comic Book outlets that they would not have a chance to experience or the possibily see and/or read. 
+With the use  of HTML, CSS, Javascript, and JQuery we managed to create a streamlined platform with color, functionality, and easy accessibility to the user. With the help of APIS we were able to connect users to various and numerous Comic Book outlets that they would not have a chance to experience.
 
 In the future this APP could be upgraded with more inventory and also more focus on ADA standards; ie. color, B&W, Zoom, a virtual reader, voice over, etc. 
-Live site: https://volodymyrbaisa.github.io/Project1-Comics-Reader/
 
-We hope that you enjoyed this APP,
+LIVE DEPLOYED LINK: https://pburlew.github.io/ComicBase/
 
-Team ComicBase- 
-Volodymyr
-Paige
-Dannette
-Paul
+LICENSE: MIT license 
+
+CONTACT: paigeburlew@gmail.com 
+
 
 
 
